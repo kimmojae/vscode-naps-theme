@@ -1,6 +1,14 @@
-# Naps Theme
+<div align="center">
+  <img src="images/icon.png" width="128" height="128" alt="Naps Theme logo">
 
-A cozy, eye-friendly dark theme for VSCode. So relaxing you might fall asleep 😴
+  # Naps Theme
+
+  A cozy, eye-friendly dark theme for VSCode. So relaxing you might fall asleep 😴
+
+  [![Version](https://vsmarketplacebadges.dev/version/kimmojae.naps-theme.svg)](https://marketplace.visualstudio.com/items?itemName=kimmojae.naps-theme)
+  [![Installs](https://vsmarketplacebadges.dev/installs/kimmojae.naps-theme.svg)](https://marketplace.visualstudio.com/items?itemName=kimmojae.naps-theme)
+  [![License](https://img.shields.io/github/license/kimmojae/vscode-naps-theme)](LICENSE)
+</div>
 
 ## Themes
 
