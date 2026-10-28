@@ -7,6 +7,7 @@
 
   [![Version](https://vsmarketplacebadges.dev/version/kimmojae.naps-theme.svg)](https://marketplace.visualstudio.com/items?itemName=kimmojae.naps-theme)
   [![Installs](https://vsmarketplacebadges.dev/installs/kimmojae.naps-theme.svg)](https://marketplace.visualstudio.com/items?itemName=kimmojae.naps-theme)
+  [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/kimmojae/naps-theme?label=Open%20VSX%20downloads)](https://open-vsx.org/extension/kimmojae/naps-theme)
   [![License](https://img.shields.io/github/license/kimmojae/vscode-naps-theme)](LICENSE)
 </div>
 
@@ -27,7 +28,9 @@ A warm variant with swapped color rules and darker background.
 
 ## Installation
 
-1. Open **Extensions** in VSCode (`Cmd+Shift+X`)
+Available on both the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kimmojae.naps-theme) and [Open VSX](https://open-vsx.org/extension/kimmojae/naps-theme) (Cursor, VSCodium, Windsurf, etc.).
+
+1. Open **Extensions** in VSCode / Cursor (`Cmd+Shift+X`)
 2. Search for `Naps Theme`
 3. Click **Install**
 4. `Cmd+K Cmd+T` → Select **Naps** or **Naps Dusk Gold**
